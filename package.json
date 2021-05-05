@@ -1,0 +1,19 @@
+{
+  "name": "token_sale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Porrello (https://www.jpaisys.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1"
+  }
+}
